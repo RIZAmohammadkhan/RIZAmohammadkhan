@@ -21,8 +21,6 @@
 
 ---
 
-<img src="https://i.imgur.com/TuYdMMA.png" width="100%" alt="Minecraft Banner"/>
-
 > Driven Computer Science student at **National Institute of Technology, Srinagar**, passionate about AI/ML, full-stack development, and automation. I enjoy building impactful software and exploring new technologies, currently focusing on Large Language Models and intelligent systems.
 
 ---
