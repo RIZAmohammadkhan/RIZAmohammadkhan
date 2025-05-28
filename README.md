@@ -1,70 +1,77 @@
-# 🧱 Riza Mohammad Khan
-
-🎮 CS Student @ NIT Srinagar | AI & Full-Stack Developer | Redstone Engineer IRL
+<h1 align="center">
+  <img src="https://minecraftfontgenerator.com/assets/img/minecraft-font.png" height="80" alt="Minecraft Font" />
+  <br/>
+  Riza Mohammad Khan
+</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rizamkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Diamond_Pickaxe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rizamohammad.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-Fire_Charge-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/RIZAmohammadkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-Enchanted_Book-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  🚀 CS Student @ NIT Srinagar | AI & Full-Stack Developer | Building Innovative Solutions
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rizamkhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rizamohammad.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RIZAmohammadkhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-🧭 **Exploring the blocky worlds of code and creativity.**
+<img src="https://i.imgur.com/TuYdMMA.png" width="100%" alt="Minecraft Banner"/>
 
-Hi, I’m Riza — a driven Computer Science student at **NIT Srinagar**, mining deep into AI/ML caves, crafting full-stack tools, and automating like a redstone master. I love building systems that leave an impact and exploring the unknown biomes of tech: currently enchanted by LLMs and intelligent systems.
-
----
-
-## 🛠️ Inventory (Tech Stack)
-
-### ⚒️ Tools in my Hotbar:
-
-![Python](https://img.shields.io/badge/Python-Blue_Wool-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Gold_Block-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-Blaze_Powder-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Netherite-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-Diamond-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-Brick-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Prismarine-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Redstone-025E8C?style=for-the-badge&logo=sql&logoColor=white)
-
-<br/>
-
-### 🧪 Potions & Scrolls (Frameworks & Libraries):
-
-![FastAPI](https://img.shields.io/badge/FastAPI-Slime_Green-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Obsidian-000000?style=for-the-badge&logo=flask&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-End_Crystal-purple?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-Ender_Pearl-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-Blue_Ice-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Amethyst-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Egui](https://img.shields.io/badge/egui-Ancient_Debris-2B2B2B?style=for-the-badge&logo=rust&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Magma_Block-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+> Driven Computer Science student at **National Institute of Technology, Srinagar**, passionate about AI/ML, full-stack development, and automation. I enjoy building impactful software and exploring new technologies, currently focusing on Large Language Models and intelligent systems.
 
 ---
 
-## 📊 Player Stats (GitHub Metrics)
+### 🧱 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RIZAmohammadkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIZAmohammadkhan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RIZAmohammadkhan&theme=tokyonight&hide_border=true" />
-</p>
+#### 🛠️ Languages & Frontend
+
+![Python](https://img.shields.io/badge/Python-6E9955?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2C94C?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-BA632C?style=for-the-badge&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-4E342E?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-3D5A80?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-D2691E?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4682B4?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-B22222?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-8E44AD?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Egui](https://img.shields.io/badge/egui-2B2B2B?style=for-the-badge&logo=rust&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ---
 
-## 🌱 Currently Digging Into
+### 📊 GitHub Stats
 
-🧠 Advanced LLMs  
-🌐 Scalable Distributed Systems  
-🔮 Quantum Computing Basics
-
----
-
-## 🤝 Let’s Team Up Like in a Survival Server!
-
-Drop by, let’s craft some magic together. Whether it’s open-source, AI, or an epic build — I’m always game.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RIZAmohammadkhan&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true" alt="Riza's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIZAmohammadkhan&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RIZAmohammadkhan&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
+### 🌱 Currently Exploring
+
+- 🧠 Advanced LLMs  
+- ⚙️ Scalable Distributed Systems  
+- 🔮 Quantum Computing Fundamentals
+
+---
+
+### 🤝 Let’s Connect!
+
+If you're working on something cool — AI, full-stack, or even building your own little redstone contraptions — feel free to connect! Let's build something amazing 💡
