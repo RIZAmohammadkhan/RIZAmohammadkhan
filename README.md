@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://minecraftfontgenerator.com/assets/img/minecraft-font.png" height="80" alt="Minecraft Font" />
   <br/>
   Riza Mohammad Khan
 </h1>
