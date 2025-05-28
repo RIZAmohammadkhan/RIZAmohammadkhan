@@ -35,48 +35,6 @@ Driven Computer Science student at **National Institute of Technology, Srinagar*
 
 ---
 
-### ✨ Featured Projects
-
-<p align="center">
-  <!-- Project 1: Prompt Manager -->
-  <a href="https://github.com/RIZAmohammadkhan/Prompt-Manager" style="text-decoration:none; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIZAmohammadkhan&repo=Prompt-Manager&theme=radical&hide_border=true&icon_color=fff" alt="Prompt Manager"/>
-  </a>
-  <!-- Project 2: Search Box -->
-  <a href="https://github.com/RIZAmohammadkhan/Searchbox" style="text-decoration:none; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIZAmohammadkhan&repo=Searchbox&theme=radical&hide_border=true&icon_color=fff" alt="Searchbox"/>
-  </a>
-  <br/>
-  <!-- Project 3: Universal File Encrypter -->
-  <a href="YOUR_REPO_LINK_HERE/Universal-File-Encrypter" style="text-decoration:none; margin: 5px;">
-    <!-- Create a custom image/card for this or use the pin if the repo is public and has good info -->
-    <!-- Example: <img src="link_to_your_custom_card_image.png" alt="Universal File Encrypter" width="300"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIZAmohammadkhan&repo=Universal-File-Encrypter&theme=radical&hide_border=true&icon_color=fff" alt="Universal File Encrypter"/>
-    <!-- ^^ Replace 'Universal-File-Encrypter' with the actual repo name if different -->
-  </a>
-  <!-- Project 4: Audio Encryptor -->
-  <a href="YOUR_REPO_LINK_HERE/Audio-Steganography-Encryptor" style="text-decoration:none; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIZAmohammadkhan&repo=Audio-Steganography-Encryptor&theme=radical&hide_border=true&icon_color=fff" alt="Audio Steganography Encryptor"/>
-    <!-- ^^ Replace 'Audio-Steganography-Encryptor' with the actual repo name if different -->
-  </a>
-  <br/>
-  <!-- Project 5: Frictionless Ball Simulator -->
-  <a href="YOUR_REPO_LINK_HERE/Frictionless-Ball-Simulator" style="text-decoration:none; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIZAmohammadkhan&repo=Frictionless-Ball-Simulator&theme=radical&hide_border=true&icon_color=fff" alt="Frictionless Ball Simulator"/>
-    <!-- ^^ Replace 'Frictionless-Ball-Simulator' with the actual repo name if different -->
-  </a>
-  <!-- Project 6: Brick Breaker Game (Placeholder) -->
-  <a href="YOUR_BRICK_BREAKER_REPO_OR_LIVE_DEMO_LINK" style="text-decoration:none; margin: 5px;">
-    <!-- Replace with an actual image/GIF of your game -->
-    <img src="https://via.placeholder.com/300x150.png?text=Brick+Breaker+Game+GIF" alt="Brick Breaker Game" width="300"/>
-    <!-- Or use a pin card if you have a repo for it:
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RIZAmohammadkhan&repo=YOUR_BRICK_BREAKER_REPO_NAME&theme=radical&hide_border=true&icon_color=fff" alt="Brick Breaker Game"/>
-    -->
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
