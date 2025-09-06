@@ -58,4 +58,4 @@ ui.monospace("read. think. reply.");
 ### Get in touch
 
 If you're building something thoughtful (AI, infra, or minimal UX), ping me —
-**[rizamohammad.work@gmail.com](mailto:rizamohammad.work@gmail.com)** · **linkedin.com/in/rizamkhan**
+**[rizamohammad.work@gmail.com](mailto:rizamohammad.work@gmail.com)** ·
