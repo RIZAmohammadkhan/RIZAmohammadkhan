@@ -20,7 +20,7 @@ I design and ship small, sharp tools and systems with clear interfaces:
 
 ### Tech I reach for
 
-`Python` `JavaScript/TypeScript` `Rust` `C` · `FastAPI` `Flask` · `PostgreSQL/SQL` · `OpenCV` `NumPy` `Pandas` · `Docker` `Linux` `Git`
+`Python` `JavaScript/TypeScript` `Rust` `C` · `FastAPI` `Flask` · `PostgreSQL/SQL` · `Docker` `Linux` `Git`
 
 <details>
 <summary>More about how I work</summary>
