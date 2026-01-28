@@ -1,61 +1,43 @@
-# Riza Mohammad Khan
+# Hi, I'm Riza 👋
 
-<p align="center">
-  CS @ NIT Srinagar · AI & Full‑Stack · Minimalist builder
-  <br/>
-  <a href="mailto:rizamohammad.work@gmail.com">rizamohammad.work@gmail.com</a> ·
-  <a href="https://linkedin.com/in/rizamkhan">linkedin.com/in/rizamkhan</a> ·
-  <a href="https://github.com/RIZAmohammadkhan">github.com/RIZAmohammadkhan</a>
+> I like to build software that works and I love Opensource software.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizamkhan) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/rizamohammadkhan) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rizamohammad.work@gmail.com) 
+[![Follow](https://img.shields.io/github/followers/rizamohammadkhan?label=Follow&style=flat-square&color=blue)](https://github.com/rizamohammadkhan)
+
+---
+
+## Projects
+
+* 🎹 **[Trix](https://github.com/RIZAmohammadkhan/TerminalMusicPlayer)** — A beautiful, keyboard-driven terminal music player for Linux.
+* 🏴‍☠️ **[Serma](https://github.com/RIZAmohammadkhan/Serma)** — Pirate Bay on your Raspberry Pi: a self-hosted, decentralized torrent indexer.
+* 🤖 **[Minso](https://github.com/RIZAmohammadkhan/MinSoTextStream)** — A modern social media platform where human creativity meets artificial intelligence.
+* 🖼️ **[Gallery](https://github.com/RIZAmohammadkhan/Gallery)** — Built to intelligently organize, search, and edit your entire image collection.
+* 💾 **[new_sql](https://github.com/RIZAmohammadkhan/new_sql)** — A simple SQL database featuring an embedded storage engine and a REPL interface.
+* 📑 **[llm.md builder](https://github.com/RIZAmohammadkhan/llm-md-builder)** — Convert your entire repo into a single file with proper paths and a repo tree.
+* 🕵️ **[GenMon](https://github.com/RIZAmohammadkhan/GuiKeyStandaloneGo)** — P2P keylogger for Windows; works in stealth mode with auto-restart.
+* 🔒 **[AudioEncrypt](https://github.com/RIZAmohammadkhan/AudioEncrypt)** — Securely encrypt audio recordings and embed them into PNG images.
+
+---
+
+## Philosophy
+
+* Software should be efficient, minimal, and beautiful.
+* Shipping beats perfection.
+
+---
+
+## Contact
+
+If something here saves you time—or you want to build something sharp—reach out.
+
+> *Software should reduce cognitive load, not add to it.*
+
+### My GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rizamohammadkhan&show_icons=true&theme=transparent" alt="Riza's GitHub stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizamohammadkhan&layout=compact&theme=transparent" alt="Top Languages" height="150" />
 </p>
-
----
-
-### What I do
-
-I design and ship small, sharp tools and systems with clear interfaces:
-
-* LLM‑powered apps and agents
-* Backend APIs and data pipelines
-
-
-### Tech I reach for
-
-`Python` `JavaScript/TypeScript` `Rust` `C` · `FastAPI` `Flask` · `PostgreSQL/SQL` · `Docker` `Linux` `Git`
-
-<details>
-<summary>More about how I work</summary>
-
-#### Principles
-
-* Minimal surface area, maximal leverage.
-* Deterministic APIs, observable systems.
-* Fast first, pretty later; accessibility always.
-
-#### Currently exploring
-
-* Advanced LLM tooling & evals
-* Scalable distributed services
-
-</details>
-
----
-
-### Selected snippets
-
-```py
-# streaming tokens, dead‑simple:
-for chunk in minso.stream(prompt, tools=tools):
-    sys.stdout.write(chunk)
-```
-
-```rust
-// egui: focus on text, nothing else
-ui.monospace("read. think. reply.");
-```
-
----
-
-### Get in touch
-
-If you're building something thoughtful (AI, infra, or minimal UX), ping me —
-**[rizamohammad.work@gmail.com](mailto:rizamohammad.work@gmail.com)** ·
