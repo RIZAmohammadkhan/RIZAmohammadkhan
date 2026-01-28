@@ -33,8 +33,6 @@
 
 If something here saves you time—or you want to build something sharp—reach out.
 
-> *Software should reduce cognitive load, not add to it.*
-
 ### My GitHub Stats
 
 <p align="left">
