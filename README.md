@@ -32,10 +32,3 @@
 ## Contact
 
 If something here saves you time—or you want to build something sharp—reach out.
-
-### My GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rizamohammadkhan&show_icons=true&theme=transparent" alt="Riza's GitHub stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizamohammadkhan&layout=compact&theme=transparent" alt="Top Languages" height="150" />
-</p>
