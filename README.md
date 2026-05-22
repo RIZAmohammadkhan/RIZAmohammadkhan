@@ -7,7 +7,7 @@
 ---
 ## Projects
 * 🎹 **[Trix](https://github.com/RIZAmohammadkhan/TerminalMusicPlayer)** — A beautiful, keyboard-driven terminal music player for Linux.
- * 📄 **[PDF Flattener](https://github.com/RIZAmohammadkhan/pdf_flattner)** — Fully client-side PDF flattener for Cloudflare Pages. Upload a PDF, mark text with purple highlight overlays, flatten it in place, and download a clean locked PDF. No server, no uploads, no leaks.
+ * 📄 **[PDF Flattener](https://github.com/RIZAmohammadkhan/pdf_flattner)** —  flatten text directly in your browser, no server, no uploads, no trace.
 * 🏴‍☠️ **[Serma](https://github.com/RIZAmohammadkhan/Serma)** — Pirate Bay on your Raspberry Pi: a self-hosted, decentralized torrent indexer.
 * 🤖 **[Minso](https://github.com/RIZAmohammadkhan/MinSoTextStream)** — A modern social media platform where human creativity meets artificial intelligence.
 * 🖼️ **[Gallery](https://github.com/RIZAmohammadkhan/Gallery)** — Built to intelligently organize, search, and edit your entire image collection.
